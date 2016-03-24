@@ -6,4 +6,5 @@ An introduction to hardware prototyping techniques for building solutions to pro
 <ul>
   <li><a href="https://www.arduino.cc/en/Reference/HomePage">Arduino API Reference</a></li>
   <li><a href="http://asciitable.com">ASCII Table</a></li>
+  <li><a href="http://artofelectronics.net">The Bible</a></li>
 </ul>
